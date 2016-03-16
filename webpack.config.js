@@ -27,7 +27,7 @@ module.exports = {
     },
     devServer: {
         contentBase: path.resolve(ROOT_PATH, 'app/build'),
-        port: 9998,
+        port: 9999,
         historyApiFallback: true,
         hot: true,
         inline: true,
