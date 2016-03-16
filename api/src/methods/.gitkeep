@@ -1,1 +1,1 @@
-array('login', 'logout', 'setLocale', 'reset_password' )array('login', 'logout', 'setLocale', 'reset_password' )array('login', 'logout', 'setLocale', 'reset_password' )
+array('login', 'logout', 'setLocale', 'reset_password' )array('login', 'logout', 'setLocale', 'reset_password' )array('login', 'logout', 'setLocale', 'reset_password' )path.resolve(ROOT_PATH, 'app/build'),

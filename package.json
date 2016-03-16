@@ -10,7 +10,8 @@
     "koa-cors": "0.0.16",
     "koa-route": "^2.4.2",
     "babylon": "latest",
-    "webpack": "latest"
+    "webpack": "latest",
+    "html-webpack-plugin": "latest"
   },
   "devDependencies": {
     "webpack-dev-server": "latest"  
